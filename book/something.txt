@@ -1,0 +1,74 @@
+教务处登陆：
+http://202.115.47.141/loginAction.do?zjh=2013141461011&mm=287317
+
+本机IP:223.85.253.161
+
+
+各名校OJ题库：
+http://wenku.baidu.com/link?url=Oz7kjQ3IPglM0s91AQ0cZcaJs_PNwugKWPUU6yNEhNsE-duyGHDKGWN0oEBsQBUyFq7ocXc7pFl_NgDgtai2CvVaZza4cAJLKwdltH4UtRa
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cocos-2dx 教程：
+http://www.cocos.com/doc/tutorial/show?id=1649
+历史版本下载：
+http://www.cocos.com/download/cocos/
+js库下载：
+http://www.cocos2d-x.org/filecenter/jsbuilder/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+图灵书库-计算机书籍：
+http://bestcbooks.com/B00DMS9990/
+
+
+ffmpeg 使用命令：
+>ffmpeg -i 1.png -acodec libvorbis 1.jpg
+
+--------------------------------------------------------------------------------
+
+
+
+之前环境变量 path：
+C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;C:\Program Files\nodejs\;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5 & MySQL Utilities 1.5\;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5 & MySQL Utilities 1.5\Doctrine extensions for PHP\
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+www.066gg.com
+
+http://cl.mlcl.me/thread0806.php?fid=2
+www.080dd.com
+
+----------------------------------------------------------------------
+一些账号和密码
+
+百度云盘账号密码：
+18428366908
+chenlin2333
+
+数据库密码：123456
+
+wsfd940628
+
+GitHub 账号 ：chenlin123
+
+电信手机号：
+17780714394
+
+密码：
+CZCP123654czcp
+
+
+阿里云：
+陈小小996
+wsfd13400389051
+登陆密码：Wsfd$13400389051[]
+root账号：chenlin
+root密码：Chenlin2333
+磁盘ID：d-28l1ar484
+mysql root密码是chenlin
+ip:114.215.154.164
+http://114.215.154.164/index.php
+web根目录在/usr/share/php5下面
+nginx重启的命令是 sudo service nginx restart

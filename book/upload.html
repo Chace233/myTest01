@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html" charset="gbk">
+	<title>Upload</title>
+</head>
+<body>
+	<h1>上传文件</h1>
+	<form action="upload.php" method="post" enctype="multipart/form-data" /> 
+		<div>
+			<input type="hidden" name="MAX_FILE_SIZE" value="10000000">
+			<label for="userfile">Upload a file:</label>			
+                              <input type="file" name="userfile" id="userfile"/>
+                              <input type="submit" value="send">
+		</div>
+	</form>
+</body>
+</html>

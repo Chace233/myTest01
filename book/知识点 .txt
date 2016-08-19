@@ -1,0 +1,21 @@
+原理-框架 （lib）lucene (全文检索)--solr
+一些比较新的search engine  opencv openGL mahout kvm 
+学习一个库的原理
+---------------------------------------------------------
+java collection(binary stack api) j2ee (reflection proxy IoC DI AOP) SSH(spring structs hibernateDAO(data access object) springMVC ibatis mybatis) 
+
+JVM GC机制 字节码缓存 NIO 中间件 并发  构造工具（ant maven）
+---------------------------------------------------------
+PHP 基础语法 PDO  SPL（standard php lib ） curl是怎么用的 sphinx PHP7一些新特性new feature seaslog（日志处理）mcrypt gd   TP wordpress(设计思想) 
+
+yar(xmlRPC) yaf yac(opcode操作码 caching) compose.phar
+
+---------------------------------------------------------
+运维方面对linux考的比较多（备份数据）shell bash
+技术支持：客服
+
+javascript  event closure array 函数式编程 currying 惰性函数 | jquery （backbone nodejs（npm express）angular ）
+
+github（git）
+
+iframe--ajax--单页应用
